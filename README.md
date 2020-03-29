@@ -1,1 +1,3 @@
 # COURSE
+I have finished this project by myself. This project include  7 calsses including WelcomeDialog ,AirnbView , AirnbDataLoader , StaticsView ,AirnbListing ,Airinterview ,MAP.It contains a welcome page . In this page , you can see one button "OK"which guides you to the next page,the main page.In the main page,you can choose the range price of the property and you can open the map and get information about property you want.Also i create the statisic page which can let you know the cheapest , the most expensive ,the live shortest ,the live longest.In the bottom of the page , you can see there are two buttons,one is back and one is forword.In the center pannel, you can get the detailed information about property you choose.
+K1895614 student；1810812
